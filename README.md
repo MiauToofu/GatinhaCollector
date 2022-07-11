@@ -1,2 +1,3 @@
 # GatinhaCollector
+Random image selector
  
